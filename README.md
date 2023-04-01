@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThuatNguyenZ&label=Profile%20views&color=0e75b6&style=flat" alt="ThuatNguyenZ" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Natural Language Processing, Big Data, SQL, OLAP**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Natural Language Processing, Big Data, SQL, Data Warehouse**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ThuatNguyenZ?tab=repositories](https://github.com/ThuatNguyenZ?tab=repositories)
 
