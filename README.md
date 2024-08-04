@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ThuatNguyenZ?tab=repositories](https://github.com/ThuatNguyenZ?tab=repositories)
 
-- 📫 How to reach me **nguyenthienthuat992@gmail.com**
+- 📫 How to reach me **thuatnguyen2k2info@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
