@@ -48,13 +48,12 @@ I am a results-driven Data Engineer with a strong product-thinking mindset. I sp
 
 ---
 
-### ⚡ GitHub Stats
-
+<h3 summary>Github Stats ⚡</summary>
 <p align="center">
-  <a href="https://github.com/ThuatNguyenZ">
-    <img src="https://github-readme-stats.vercel.app/api?username=ThuatNguyenZ&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
+  <a href="#" style="display: block; margin: 10px 0;">
+    <img src="https://github-readme-stats-bqhz.vercel.app/api?username=ThuatNguyenZ&count_private=true&theme=blueberry&hide_border=true&line_height=20" alt="Github stats" />
   </a>
-  <a href="https://github.com/ThuatNguyenZ">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuatNguyenZ&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
+  <a href="#" style="display: block; margin: 10px 0;">
+    <img src="https://github-readme-stats-bqhz.vercel.app/api/top-langs/?username=ThuatNguyenZ&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Languages" />
   </a>
 </p>
