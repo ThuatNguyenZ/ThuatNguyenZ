@@ -28,9 +28,25 @@ I am a results-driven Data Engineer with a strong product-thinking mindset. I sp
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" alt="Cassandra" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/NLP_&_LLMs-000000?style=flat-square&logo=openai&logoColor=white" alt="NLP & LLMs" />
+</p>
+
+---
+
+### 📚 Selected Publications
+- **[RRS: Review-based Recommendation System Using DL for VN](https://doi.org/10.1007/s42979-024-02812-6)** <br/> *Published in SN Computer Science (Q2 SJR).*
+- **[Co-NAML-LSTUR: News Recommendation System](https://doi.org/10.1007/978-981-95-4960-3-9)** <br/> *Accepted at the 18th Multi-Disciplinary International Conference on Artificial Intelligence (MIWAI 2025).*
+
+---
 
 ### ⚡ GitHub Stats
 
