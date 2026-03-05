@@ -51,6 +51,10 @@ I am a results-driven Data Engineer with a strong product-thinking mindset. I sp
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThuatNguyenZ&show_icons=true&theme=tokyonight&hide_border=true" alt="ThuatNguyenZ's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuatNguyenZ&layout=compact&theme=tokyonight&hide_border=true" alt="ThuatNguyenZ's Top Languages" />
+  <a href="https://github.com/ThuatNguyenZ">
+    <img src="https://github-readme-stats.vercel.app/api?username=ThuatNguyenZ&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ThuatNguyenZ">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuatNguyenZ&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
+  </a>
 </p>
