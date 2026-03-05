@@ -1,22 +1,33 @@
-<h1 align="center">Hi 👋, I'm Thuat Nguyen</h1>
-<h3 align="center">A student of University of Information Technology (VNUHCM - UIT), majoring in Data Science.</h3>
+<h1 align="center">Hi 👋, I'm Nguyen Thien Thuat</h1>
+<h3 align="center">Data Engineer | MSc in Artificial Intelligence</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThuatNguyenZ&label=Profile%20views&color=0e75b6&style=flat" alt="ThuatNguyenZ" /> </p>
-
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Natural Language Processing, Big Data, SQL, Data Warehouse**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ThuatNguyenZ?tab=repositories](https://github.com/ThuatNguyenZ?tab=repositories)
-
-- 📫 How to reach me **thuatnguyen2k2info@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/nguyen.thuat.338211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phamcuong21" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThuatNguyenZ&label=Profile%20views&color=0e75b6&style=flat" alt="ThuatNguyenZ" />
+  <a href="https://linkedin.com/in/thuat-nguyen1306/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353851/hadoop.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThuatNguyenZ&show_icons=true&locale=en" alt="ThuatNguyenZ" /></p>
+### 👨‍💻 About Me
+I am a results-driven Data Engineer with a strong product-thinking mindset. I specialize in architecting scalable ETL pipelines, automated ingestion systems, and real-time streaming architectures.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThuatNguyenZ&" alt="ThuatNguyenZ" /></p>
+- 💼 Currently working as a **Data Engineer**, focusing on data-driven services for digital commerce.
+- 🎓 Holding a **Master of Science in Artificial Intelligence** from VNU-HCM.
+- 🌱 Currently exploring and working with the **AWS ecosystem, Big Data (Kafka, Spark), and LLMs**.
+- 📫 Reach me via: **thuatnguyen2k2info@gmail.com**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="
