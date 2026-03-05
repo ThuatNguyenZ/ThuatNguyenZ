@@ -31,3 +31,10 @@ I am a results-driven Data Engineer with a strong product-thinking mindset. I sp
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="
+
+### ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThuatNguyenZ&show_icons=true&theme=tokyonight&hide_border=true" alt="ThuatNguyenZ's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuatNguyenZ&layout=compact&theme=tokyonight&hide_border=true" alt="ThuatNguyenZ's Top Languages" />
+</p>
