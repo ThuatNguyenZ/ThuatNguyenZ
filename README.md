@@ -9,19 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=ThuatNguyenZ&label=views&color=1E2230&style=flat-square" alt="Profile views" />
 </p>
 
-### `// 00` &nbsp;whoami
+<img src="assets/sec-00.svg?v=1" width="100%" alt="00 · whoami" />
 
-```yaml
-name:      Nguyen Thien Thuat
-role:      Data Engineer            # owner of the data platform, design → build → operate
-focus:     [pipelines, warehousing, monitoring]
-studying:  M.Sc. Artificial Intelligence — University of Science, VNU-HCM
-research:  [recommender systems, NLP]
-based_in:  Ho Chi Minh City, Vietnam
-motto:     "Boring in production — because it was designed with care."
-```
+<img src="assets/whoami.svg?v=1" width="100%" alt="TABLE public.engineer — name: Nguyen Thien Thuat · role: Data Engineer · focus: pipelines, warehousing, monitoring · studying: M.Sc. Artificial Intelligence, University of Science (VNU-HCM) · research: recommender systems, NLP · based in Ho Chi Minh City" />
 
-### `// 01` &nbsp;featured work
+<img src="assets/sec-01.svg?v=1" width="100%" alt="01 · featured work" />
 
 <table>
   <tr>
@@ -40,7 +32,7 @@ motto:     "Boring in production — because it was designed with care."
   </tr>
 </table>
 
-### `// 02` &nbsp;stack, by pipeline layer
+<img src="assets/sec-02.svg?v=1" width="100%" alt="02 · stack, by pipeline layer" />
 
 | layer | tools |
 | :-- | :-- |
@@ -52,7 +44,7 @@ motto:     "Boring in production — because it was designed with care."
 | `ML / NLP` | <img src="https://img.shields.io/badge/PyTorch-0E1015?style=flat-square&logo=pytorch&logoColor=10B981" alt="PyTorch" /> <img src="https://img.shields.io/badge/Transformers-0E1015?style=flat-square&logo=huggingface&logoColor=10B981" alt="Transformers" /> <img src="https://img.shields.io/badge/Keras-0E1015?style=flat-square&logo=keras&logoColor=10B981" alt="Keras" /> |
 | `SERVE` | <img src="https://img.shields.io/badge/React-0E1015?style=flat-square&logo=react&logoColor=F8FAFC" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-0E1015?style=flat-square&logo=typescript&logoColor=F8FAFC" alt="TypeScript" /> <img src="https://img.shields.io/badge/Supabase-0E1015?style=flat-square&logo=supabase&logoColor=F8FAFC" alt="Supabase" /> |
 
-### `// 03` &nbsp;published research
+<img src="assets/sec-03.svg?v=1" width="100%" alt="03 · published research" />
 
 > **RRS: Review-based Recommendation System** — deep learning for Vietnamese e-commerce  
 > <sub>SN Computer Science · Springer · 2024 · Q2 (SJR) · <a href="https://doi.org/10.1007/s42979-024-02812-6">doi:10.1007/s42979-024-02812-6</a></sub>
@@ -60,7 +52,7 @@ motto:     "Boring in production — because it was designed with care."
 > **Co-NAML-LSTUR: News Recommendation** — hybrid framework with dual-scale user modeling  
 > <sub>MIWAI 2025 · Springer Nature · <a href="https://doi.org/10.1007/978-981-95-4960-3_9">doi:10.1007/978-981-95-4960-3_9</a></sub>
 
-### `// 04` &nbsp;telemetry
+<img src="assets/sec-04.svg?v=1" width="100%" alt="04 · telemetry" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThuatNguyenZ&bg_color=08090C&color=94A3B8&title_color=00F0FF&line=00F0FF&point=10B981&area=true&area_color=00F0FF&hide_border=true&custom_title=commit%20throughput%20%C2%B7%20last%2031%20days" width="100%" alt="Contribution activity" />
 
