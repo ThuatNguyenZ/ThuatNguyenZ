@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="220" viewBox="0 0 560 220" role="img" aria-labelledby="t">
+  <title id="t">Lunch-Order — business rules in Postgres, a thin client, used daily by the whole office</title>
+  <defs>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#0F172A" fill-opacity=".05"/></pattern>
+    <radialGradient id="g" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#4F46E5" stop-opacity=".22"/><stop offset="1" stop-color="#4F46E5" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect width="560" height="220" rx="12"/></clipPath>
+  </defs>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, monospace; }
+    .sans { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .flow { stroke-dasharray: 3 6; animation: flow 1.6s linear infinite; }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes flow { to { stroke-dashoffset: -27; } }
+    @keyframes pulse { 50% { opacity: .35; } }
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="560" height="220" fill="#F7F8FA"/>
+    <rect width="560" height="220" fill="url(#dots)"/>
+    <circle cx="480" cy="190" r="190" fill="url(#g)"/>
+    <text x="24" y="36" class="mono" font-size="11" letter-spacing="1.5" fill="#4F46E5">// 02 · SIDE BUILD</text>
+    <text x="24" y="68" class="sans" font-size="26" font-weight="800" letter-spacing="-.5" fill="#0F172A">LUNCH-ORDER</text>
+
+    <g fill="none" stroke="#4F46E5" stroke-width="1.2">
+      <path d="M124 126 H150" class="flow"/><path d="M250 126 H276" class="flow"/>
+      <path d="M200 148 V168" class="flow"/>
+    </g>
+    <g class="mono" font-size="10.5">
+      <rect x="24" y="104" width="100" height="44" fill="#FFFFFF" stroke="#E2E8F0"/>
+      <text x="36" y="122" fill="#0F172A">members</text><text x="36" y="139" fill="#64748B">· role</text>
+      <rect x="150" y="104" width="100" height="44" fill="#FFFFFF" stroke="#4F46E5"/>
+      <text x="162" y="122" fill="#4338CA">orders</text><text x="162" y="139" fill="#64748B">· qty · note</text>
+      <rect x="276" y="104" width="100" height="44" fill="#FFFFFF" stroke="#E2E8F0"/>
+      <text x="288" y="122" fill="#0F172A">sessions</text><text x="288" y="139" fill="#64748B">· cutoff</text>
+      <rect x="114" y="168" width="172" height="30" fill="#F1F5F9" stroke="#E2E8F0"/>
+      <text x="126" y="187" fill="#047857">using (uid = auth.uid())</text>
+    </g>
+    <g class="mono" font-size="10.5" text-anchor="end">
+      <circle class="pulse" cx="466" cy="111" r="3.5" fill="#047857"/>
+      <text x="536" y="115" fill="#047857">v7 · LIVE</text>
+      <text x="536" y="140" fill="#475569">used daily</text>
+      <text x="536" y="160" fill="#475569">RLS · triggers · RPC</text>
+      <text x="536" y="190" fill="#0F172A" font-size="18" font-weight="700">$0 / mo</text>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="559" height="219" rx="12" fill="none" stroke="#E2E8F0"/>
+</svg>

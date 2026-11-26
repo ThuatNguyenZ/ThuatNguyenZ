@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-labelledby="t d">
   <title id="t">TABLE public.engineer — Nguyen Thien Thuat</title>
-  <desc id="d">name Nguyen Thien Thuat; role Data Engineer; focus pipelines, warehousing, monitoring; studying M.Sc. Artificial Intelligence at University of Science, VNU-HCM; research recommender systems and NLP; based in Ho Chi Minh City, Vietnam; motto: boring in production because it was designed with care; status shipping.</desc>
+  <desc id="d">name Nguyen Thien Thuat; role Data Engineer; focus pipelines, warehousing, monitoring; studying M.Sc. Artificial Intelligence at University of Science, VNU-HCM; research recommender systems and NLP; based in Ho Chi Minh City, Vietnam; motto: fearless in exploration, meticulous in creation; status shipping.</desc>
   <defs>
     <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" fill-opacity=".04"/></pattern>
     <linearGradient id="scanG" x1="0" x2="1">
@@ -90,7 +90,7 @@
         <g class="row r7">
           <text x="48" y="384" fill="#F8FAFC">motto</text>
           <text x="270" y="384" fill="#6366F1">text</text>
-          <text x="430" y="384" fill="#94A3B8">'Boring in production — because it was designed with care.'</text>
+          <text x="430" y="384" fill="#94A3B8">“Fearless in exploration — meticulous in creation.”</text>
         </g>
         <g class="row r8">
           <text x="48" y="422" fill="#F8FAFC">status</text>

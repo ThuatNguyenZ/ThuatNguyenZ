@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-labelledby="t">
+  <title id="t">All pipelines healthy</title>
+  <defs>
+    <linearGradient id="rule" x1="0" x2="1">
+      <stop offset="0" stop-color="#0E7490" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#0E7490"/>
+      <stop offset="1" stop-color="#0E7490" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="1200" height="64" rx="10"/></clipPath>
+  </defs>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, monospace; }
+    .sweep { animation: sweep 5s cubic-bezier(.4,0,.2,1) infinite; }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes sweep { from { transform: translateX(-320px); } to { transform: translateX(1200px); } }
+    @keyframes pulse { 50% { opacity: .35; } }
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="64" fill="#F7F8FA"/>
+    <rect y="0" width="1200" height="1" fill="#E2E8F0"/>
+    <rect class="sweep" y="0" width="320" height="1.5" fill="url(#rule)"/>
+    <circle class="pulse" cx="28" cy="34" r="4" fill="#047857"/>
+    <text x="42" y="38" class="mono" font-size="12" fill="#475569">all pipelines <tspan fill="#047857">healthy</tspan> · monitored 24/7</text>
+    <text x="1172" y="38" class="mono" font-size="12" fill="#64748B" text-anchor="end">built by hand · data engineering with care</text>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="63" rx="10" fill="none" stroke="#E2E8F0"/>
+</svg>
