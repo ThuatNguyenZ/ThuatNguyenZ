@@ -1,5 +1,5 @@
 <a href="https://profile-thuatnguyen.vercel.app">
-  <img src="assets/header.svg" width="100%" alt="Nguyen Thien Thuat — Data Engineer. Turning scattered commerce data into one warehouse." />
+  <img src="assets/header.svg?v=2" width="100%" alt="Nguyen Thien Thuat — Data Engineer. Turning scattered commerce data into one warehouse." />
 </a>
 
 <p align="center">
@@ -26,13 +26,13 @@ motto:     "Boring in production — because it was designed with care."
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://profile-thuatnguyen.vercel.app/work/ba3-data-platform"><img src="assets/card-platform.svg" width="100%" alt="BA3 Data Platform" /></a>
+      <a href="https://profile-thuatnguyen.vercel.app/work/ba3-data-platform"><img src="assets/card-platform.svg?v=2" width="100%" alt="BA3 Data Platform" /></a>
       <p>The data platform behind an e-commerce analytics product: commerce and advertising data collected, stored, modeled and monitored end to end.</p>
       <p><code>Python</code> <code>AWS</code> <code>PostgreSQL</code> <code>Parquet</code> <code>Grafana</code></p>
       <a href="https://profile-thuatnguyen.vercel.app/work/ba3-data-platform"><b>Read the case study →</b></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://profile-thuatnguyen.vercel.app/work/lunch-order"><img src="assets/card-lunch.svg" width="100%" alt="Lunch-Order" /></a>
+      <a href="https://profile-thuatnguyen.vercel.app/work/lunch-order"><img src="assets/card-lunch.svg?v=2" width="100%" alt="Lunch-Order" /></a>
       <p>An ordering app the whole office uses every day. Built like a data engineer would: business rules live in Postgres, the client stays thin.</p>
       <p><code>Supabase</code> <code>Postgres RLS</code> <code>React 19</code> <code>TypeScript</code> <code>PWA</code></p>
       <a href="https://profile-thuatnguyen.vercel.app/work/lunch-order"><b>See how it works →</b></a>
@@ -69,4 +69,4 @@ motto:     "Boring in production — because it was designed with care."
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuatNguyenZ&layout=compact&hide=jupyter%20notebook,html&hide_border=true&bg_color=08090C&title_color=00F0FF&text_color=94A3B8" alt="Top languages" />
 </p>
 
-<img src="assets/footer.svg" width="100%" alt="All pipelines healthy · monitored 24/7" />
+<img src="assets/footer.svg?v=2" width="100%" alt="All pipelines healthy · monitored 24/7" />
